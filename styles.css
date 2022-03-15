@@ -1,0 +1,29 @@
+body {
+            text-align: center;
+            background-image: url("https://images.pexels.com/photos/3394939/pexels-photo-3394939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+            font-size: 1rem;
+        }
+
+        #title {
+            color:white;
+        }
+        
+        #description{
+            color:white;
+            font-style: italic;
+            font-size: 1.125rem;
+        }
+
+        .container-fluid{
+            background-color: paleturquoise;
+            width:fit-content;
+            text-align: left;
+            font-size: large;
+            opacity: 90%;
+        }
+
+        #designer{
+            font-size: large;
+            color: darkcyan;
+            text-align: center;
+        }
